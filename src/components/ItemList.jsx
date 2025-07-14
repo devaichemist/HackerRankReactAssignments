@@ -16,7 +16,6 @@ function ItemList({ onNext }) {
     };
 
 
-
   return (
     <div className="input-group">
       <h8k-navbar header="Item List Manager"></h8k-navbar>
@@ -43,7 +42,7 @@ function ItemList({ onNext }) {
         </ul>
 
         <button onClick={onNext} className="next-button">
-          Back to Contact Form
+          Next Assignment
         </button>
 
       </div>

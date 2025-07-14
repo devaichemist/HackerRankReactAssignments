@@ -99,7 +99,7 @@ function ContactForm({ onNext }) {
         </form>
 
         <button onClick={onNext} className="next-button">
-          Next Exercise
+          Next Assignment
         </button>
 
         {submittedData && (
