@@ -1,12 +1,20 @@
-# React + Vite
+# React HackerRank Assignments
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a collection of small React assignments completed on the [HackerRank](https://www.hackerrank.com/) platform to prepare for React technical interviews. Each assignment focuses on solving a specific UI or logic challenge using modern React concepts and best practices.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Each assignment is implemented as a standalone component or module inside the application. The purpose of this project is to demonstrate proficiency with React by solving a variety of frontend problems typically encountered in interviews or coding assessments.
 
-## Expanding the ESLint configuration
+## Assignments Included
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Here are some of the assignments implemented:
+
+- **CodeReviewFeedbackSystem** – A component that captures and displays code review feedbacks.
+- **ContactForm** – A simple controlled form for collecting user data.
+- **ItemList** – A component that renders a list of items dynamically.
+- 
+
+Each assignment is placed in its own page and can be reviewed independently.
+
+
