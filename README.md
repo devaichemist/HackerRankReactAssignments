@@ -17,4 +17,25 @@ Here are some of the assignments implemented:
 
 Each assignment is placed in its own page and can be reviewed independently.
 
+## Getting Started
+
+To run this application locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone ...
+   cd react-form
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm start
+   ```
+
+After running these commands, open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
 
